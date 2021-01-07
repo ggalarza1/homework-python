@@ -1,1 +1,1 @@
-# homework-python
+# python-homework
